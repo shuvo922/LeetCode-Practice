@@ -1,0 +1,23 @@
+*************command***********
+1.git status(to see the repo status)
+2.git init(to create a repo or initialize)
+3.git add --a or git add . (to stage all files)
+4.git commit -m "msg"(where msg can be like -- "initial commit", "second commit")
+5.git log(to see all the commit)
+6.rm -rf .git (to delete the whole repo)
+7.pwd (it will show present working directory)
+8.ls (it will list all the files which are present in current directory)
+9.cd folderName(to go to any folder)
+10.git clone <any url link>(to clone any project folder/git repo)
+11.q or q+enter(to get back after git log command)
+12. touch error.log
+   touch .gitignore(it will ignore all the file name which are present in .gitignore file)
+13.git diff (it compares staging area with working directory)
+14.git diff --staged(it compare staging area with previous commit)
+15.git commit -a -m "any text"(it will enter the tracked file to the staging area but not fo untracked file)
+16.git rm filename(to delete file)
+17.git mv old_filename new_filename(to rename an existing file)
+18.git rm --cached ()
+19.git checkout --file_name(it will restore prvious content of this file)
+20.git checkout -f(it will restore previous content of all file present in repo)
+21 
